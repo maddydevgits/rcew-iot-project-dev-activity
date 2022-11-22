@@ -66,6 +66,24 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     4. Connecting Wires<br/>
     </td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Mind Blenders</td>
+    <td>Smart Agriculture System</td>
+    <td>1. ESP32 <br/>
+    2. Soil Moisture <br/>
+    3. Water pump <br/>
+    4. Connecting Wires<br/></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Explorika </td>
+    <td>Smart workout Management System</td>
+    <td>1. ESP32 <br/>
+    2. Ultrasonic Sensor <br/>
+    3. Temperature Sensor <br/>
+    4. Connecting Wires</td>
+  </tr>
 </table>
 
 # For Questions
