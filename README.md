@@ -12,13 +12,59 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 <table>
   <tr>
     <th>SNo</th>
+    <th>Team Name</th>
     <th>Name of Project</th>
     <th>Components List</th>
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
+    <td>Dream Catchers</td>
+    <td>Home Automation</td>
+    <td>1. ESP32 <br/>
+    2. DHT11 <br/>
+    3. LDR Sensor <br/>
+    4. Touch Sensor <br/>
+    5. Relay + Bulb <br/>
+    6. Connecting Wires</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Marvels</td>
+    <td>IoT based Farming Website</td>
+    <td>1. ESP32 <br/>
+    2. Soil Moisture Sensor <br/>
+    3. Water Pump <br/>
+    4. Connecting wires</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Perfect Pirates</td>
+    <td>Smart Car Parking</td>
+    <td>1. ESP32 <br/>
+    2. IR Sensor(4)<br/>
+    3. Servo motor <br/>
+    4. LCD Display <br/>
+    5. Connecting Wires</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Smart Thinkers</td>
+    <td>Smart Vechiles</td>
+    <td>1. ESP32 <br/>
+    2. Ultrasonic Sensor <br/>
+    3. Alcohol Sensor <br/>
+    4. IR Sensor <br/>
+    5. Connecting wires </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Hot Flashes </td>
+    <td>Smart Medicine Box</td>
+    <td>1. ESP32 <br/>
+    2. IR Sensor(3) <br/>
+    3. LEDs <br/>
+    4. Connecting Wires<br/>
+    </td>
   </tr>
 </table>
 
